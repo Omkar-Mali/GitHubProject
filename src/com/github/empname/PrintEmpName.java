@@ -7,8 +7,12 @@ public class PrintEmpName {
 		//storing my name as String literal object
 		String name="Nikhil";
 
-		//Printing my name
+		//Added my designation also
+		String designation = "Java Developer";
+
+		//Printing my name & designation
 		System.out.println(name);
+		System.out.println(designation);
 
 	}
 
