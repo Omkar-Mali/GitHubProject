@@ -4,7 +4,11 @@ public class PrintEmpName {
 
 	public static void main(String[] args) {
 
-		// HII I am OMKAR: You have to write Code to print your name: Use String concept
+		//storing my name as String literal object
+		String name="Nikhil";
+
+		//Printing my name
+		System.out.println(name);
 
 	}
 
